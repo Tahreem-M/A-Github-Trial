@@ -1,2 +1,2 @@
 # A-Github-Trial
-My first repository
+My first repository. my first project
